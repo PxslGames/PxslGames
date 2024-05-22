@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @PxslGames
 - 👀 I’m interested in Coding/Game Development
 - 🌱 I’m currently learning Batch And C#
+- I have experience in:
+- Python
+- C# (A Bit)
+- Batch
+- I can kinda read javascript
 - 😄 Pronouns: He/Him
