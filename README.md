@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PxslGames
-- 👀 I’m interested in Coding/Game Development
+- 👀 I’m interested in Game Development/Modding Games/Coding
 - 🌱 I’m currently learning Batch And C#
 - I have experience in:
 - Python
