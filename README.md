@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @PxslGames
 - 👀 I’m interested in Game Development/Modding Games/Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# (I know unity C#)
 - I have experience in:
 - Python
 - C#
+- HTML
+- CSS
+- JavaScript
 - Batch (A Bit)
-- JavaScript (A Bit)
 - 😄 Pronouns: He/Him
