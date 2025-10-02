@@ -43,9 +43,9 @@
 
 <!-- Optional: Links -->
 <p>
-  <a href="https://yourwebsite.com">🌐 Website</a> •
+  <a href="https://pxsl.dev">🌐 Website</a> •
   <a href="https://github.com/PxslGames">GitHub</a> •
-  <a href="mailto:youremail@example.com">📫 Contact Me</a>
+  <a href="https://discord.gg/9QDjPsE7bQ">📫 Contact Me</a>
 </p>
 
 </div>
